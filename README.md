@@ -4,6 +4,7 @@
 [![Skills](https://img.shields.io/badge/skills-11-blue)](#skills)
 [![Agents](https://img.shields.io/badge/agents-3-blue)](#agents)
 [![Platforms](https://img.shields.io/badge/platforms-Claude%20Code%20%7C%20OpenCode%20%7C%20Pi-informational)](#platforms)
+[![Domains](https://img.shields.io/badge/domains-Edge%20AI%20%C2%B7%20Robotics%20%C2%B7%20Automation-8A2BE2)](#skills)
 [![Supplements](https://img.shields.io/badge/supplements-ai--toolkit-orange)](../ai-toolkit)
 
 **11 skills and 3 agents for Local AI, Edge AI, ML, Robotics, and Industrial Automation** —
